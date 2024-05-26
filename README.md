@@ -6,6 +6,16 @@ Submission Proyek Deploy Aplikasi Profile - Menjadi Google Cloud Engineer
 
 Google Cloud Platform - (google-compute-service = App Engine &  google-storage-service = Bucket)
 
+### Set-up and Run
+> now install dependencies and run the project 
+> [Website](https://ikhsan-profile.et.r.appspot.com/)
+
+```shell
+$ gcloud app deploy
+$ gcloud app browse
+```
+- **[Documentation](https://cloud.google.com/appengine/docs/standard/hosting-a-static-website)**
+
 ## Authors
 
 Contributors names and contact info
